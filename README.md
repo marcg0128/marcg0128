@@ -2,12 +2,24 @@
 
 ## 🙇 About me 
 
-I’m a 16-year-old developer from Spain, now living in Germany. I started coding in 2020 with Python and have since worked on web development projects, satisfying several clients. 
+ > I’m a 16-year-old developer from Spain, now living in Germany. I started coding in 2020 with Python and have since worked on web development projects, satisfying several clients. 
 
 
 ## 🛠️ Skills
+### Projects
+> I have worked on various exciting projects, starting with a Discord bot that ignited my passion for coding. I have also sold Discord bots and written FiveM scripts, in addition to creating several client-focused websites using  HTML, and CSS. I'm continuously expanding my skills with JavaScript, .NET, Java and C#.
 
-My skills include Python, HTML, and CSS, and I’m currently learning LUA, JavaScript, and C#. I’m always open to collaborations and seeking guidance in C# for game development. Fun fact: my first project was a Discord bot!
+
+### My Programming Skills
+> [![My Skills](https://skillicons.dev/icons?i=py,html,css,lua)](https://google.com)
+
+### Upcoming Skills
+> [![upcoming Skills](https://skillicons.dev/icons?i=cs,js,java,net)](https://google.com)
+
+## 📨 Contact Me
+[![Contact](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/637325490008358932) <br>
+**Discord:** [@marc0128](https://discordapp.com/users/637325490008358932)
+
 
 
 <!--
