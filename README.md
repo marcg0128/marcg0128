@@ -1,4 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Marcos 
+
+## 🙇 About me 
+
+I’m a 16-year-old developer from Spain, now living in Germany. I started coding in 2020 with Python and have since worked on web development projects, satisfying several clients. 
+
+
+## 🛠️ Skills
+
+My skills include Python, HTML, and CSS, and I’m currently learning LUA, JavaScript, and C#. I’m always open to collaborations and seeking guidance in C# for game development. Fun fact: my first project was a Discord bot!
+
 
 <!--
 **marcg0128/marcg0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
