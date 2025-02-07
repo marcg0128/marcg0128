@@ -14,7 +14,7 @@
 > [![My Skills](https://skillicons.dev/icons?i=py,html,css,lua)](https://google.com)
 
 ### Upcoming Skills
-> [![upcoming Skills](https://skillicons.dev/icons?i=cs,js,java,net)](https://google.com)
+> [![upcoming Skills](https://skillicons.dev/icons?i=cs,js,java,net,react)](https://google.com)
 
 ## 📨 Contact Me
 [![Contact](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/637325490008358932) <br>
