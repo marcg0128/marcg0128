@@ -2,7 +2,7 @@
 
 ## 🙇 About me 
 
- > I’m a 16-year-old developer from Spain, now living in Germany. I started coding in 2020 with Python and have since worked on web development projects, satisfying several clients. 
+ > I’m a 18-year-old developer from Spain, now living in Germany. I started coding in 2020 with Python and have since worked on web development projects, satisfying several clients. 
 
 
 ## 🛠️ Skills
@@ -11,10 +11,10 @@
 
 
 ### My Programming Skills
-> [![My Skills](https://skillicons.dev/icons?i=py,html,css,lua,react)](https://google.com)
+> [![My Skills](https://skillicons.dev/icons?i=py,html,css,lua,react,js)](https://google.com)
 
 ### Upcoming Skills
-> [![upcoming Skills](https://skillicons.dev/icons?i=cs,js,java,net)](https://google.com)
+> [![upcoming Skills](https://skillicons.dev/icons?i=cs,java,net)](https://google.com)
 
 ## 📨 Contact Me
 [![Contact](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/637325490008358932) <br>
